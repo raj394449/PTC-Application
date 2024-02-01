@@ -10,7 +10,7 @@ import 'package:ptc_application/Home%20Scrrens/profile.dart';
 import 'package:ptc_application/Home%20Scrrens/student_details.dart';
 import 'package:ptc_application/Home%20Scrrens/upcoming_events.dart';
 import 'Utils/routes.dart';
-import 'get_started.dart';
+// import 'get_started.dart';
 import 'login_page.dart';
 import 'home_page.dart';
 
